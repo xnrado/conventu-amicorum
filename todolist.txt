@@ -1,2 +1,11 @@
 Lista:
-
+1. Misje z Mission_expanded domyślnie na start(chuj wie jak to zrobić, ale jak się dowiemy to trzeba będzie wywalić
+event[paradox_or_mod_missions_events.2] i zobaczyć co robi ten event ale .1)
+2. Wywalić chyba decyzję Swap National Ideas albo przyjrzeć się co ona robi
+3. Wywalić decyzję co tłumaczy jak działają reformy govermentu
+4. Wywalić decyzję co tłumaczy jak działają puppety. 
+5. Dodać minusy z over gov cap (czyt. podjebać gotowe z 1836)
+6. Przejrzeć great projecty czy nie są jakieś pojebane, zwłaszcza global modifier
+7. Znerfić metę na quantity-trade 
+8. Znerfić niektóre idee np. quantity i ich bonus do force limit (Jeśli będziemy zmieniać force limit całościowo w grze)
+9. Sprawdzić co robi event subject_expanded_events.3 (i poprzednie numery) i zrobić tak, żeby było to ustawienie domyślne
