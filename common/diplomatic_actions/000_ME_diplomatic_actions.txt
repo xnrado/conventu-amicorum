@@ -1,0 +1,245 @@
+declarewar = {
+	condition = {
+		tooltip = XXX
+		potential = {
+			always = yes
+		}
+		allow = {
+			always = yes
+		}
+	}
+	effect = {
+		###############
+		####VANILLA####
+		###############
+		if = {
+			limit = { 
+				has_country_flag = nor_norwegian_independence_modifier
+				FROM = { tag = DAN }
+			}
+			add_country_modifier = {
+				name = nor_norwegian_independence_war_mod
+				duration = -1
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = teu_joined_the_hre
+				is_part_of_hre = yes
+				FROM = { is_part_of_hre = yes }
+			}
+			clr_country_flag = teu_joined_the_hre
+			country_event = {
+				id = flavor_teu.33
+				days = 10
+			}
+		}
+		#################
+		####/ VANILLA####
+		#################
+		
+		if = {
+			limit = {
+				mission_completed = sweden_support_the_roman_church
+				FROM = {
+					NOT = { religion = catholic }
+				}
+			}
+			change_variable = { which = swe_num_of_wars_against_non_catholics value = 1 }
+		}
+		if = {
+			limit = {
+				has_country_flag = me_hab_von_haugwitz_reforms
+			}
+			remove_country_modifier = me_hab_peacetime_army
+			add_country_modifier = {
+				name = me_hab_wartime_army
+				duration = -1
+				desc = me_as_long_as_we_are_at_war
+			}
+		}
+		
+		if = {
+			limit = {
+				has_country_flag = me_hab_hofkriegstrat_flag
+			}
+			add_country_modifier = {
+				name = me_hab_war_council
+				duration = -1
+			}
+		}
+	}
+}
+
+requestpeace = {
+	condition = {
+		tooltip = CANNOT_SIGN_SEPERATE_PEACE_AS_INDIAN_HEGEMONY_COUP_TARGET
+		potential = {
+			is_in_war = {
+				participants = ROOT
+				participants = FROM
+				casus_belli = cb_persia_indian_hegemony_coup
+			}
+			OR = {
+				tag = event_target:me_persia_indian_hegemony_mechanic_coup_target
+				FROM = {
+					tag = event_target:me_persia_indian_hegemony_mechanic_coup_target
+				}
+			}
+		}
+		allow = {
+			always = no
+		}
+	}
+}
+
+annexationaction = {
+	condition = {
+		tooltip = ANNEX_TOO_LOW
+		potential = {
+			FROM = {
+				vassal_of = ROOT
+			}
+		}
+		allow = {
+			FROM = {
+				has_opinion = {
+					who = ROOT
+					value = 190
+				}
+			}
+		}
+	}
+	condition = {
+		tooltip = " "
+		potential = {
+			FROM = {
+				vassal_of = ROOT
+			}
+			ai = yes
+			FROM = {
+				OR = {
+					has_country_flag = PRU_ducal
+					has_country_flag = KUR_ducal
+				}
+			}
+		}
+		allow = {
+			always = no
+		}
+	}
+	#condition = {
+	#	tooltip = ANNEXINVALID
+	#	potential = {
+	#		FROM = {
+	#			vassal_of = ROOT
+	#		}
+	#	}
+	#	allow = {
+	#		FROM = {
+	#			years_in_vassalage_under = {
+	#				who = ROOT
+	#				years = 10
+	#			}
+	#		}
+	#	}
+	#}
+}
+
+tributary_state_action = {
+	condition = {
+		potential = {
+			ai = yes
+		}
+		allow = {
+			OR = {
+				NOT = { ROOT = { capital_scope = { superregion = china_superregion } } }
+				AND = {
+					ROOT = { capital_scope = { superregion = china_superregion } }
+					NOT = { FROM = { capital_scope = { superregion = china_superregion } } }
+				}
+			}
+			OR = {
+				NOT = { ROOT = { capital_scope = { region = japan_region } } }
+				AND = {
+					ROOT = { capital_scope = { region = japan_region } }
+					NOT = { FROM = { capital_scope = { region = japan_region } } }
+				}
+			}
+		}
+	}
+	
+	condition = {
+		tooltip = " "
+		potential = {
+			ai = yes
+			capital_scope = {
+				OR = {
+					region = malaya_region
+					region = indonesia_region
+					region = moluccas_region
+				}
+			}
+			FROM = {
+				capital_scope = {
+					OR = {
+						region = malaya_region
+						region = indonesia_region
+						region = moluccas_region
+					}
+				}
+			}
+		}
+		allow = {
+			always = no
+		}
+	}
+}
+ask_for_tributary_state_action = {
+	condition = {
+		potential = {
+			ai = yes
+		}
+		allow = {
+			OR = {
+				NOT = { FROM = { capital_scope = { superregion = china_superregion } } }
+				AND = {
+					FROM = { capital_scope = { superregion = china_superregion } }
+					NOT = { ROOT = { capital_scope = { superregion = china_superregion } } }
+				}
+			}
+			OR = {
+				NOT = { FROM = { capital_scope = { region = japan_region } } }
+				AND = {
+					FROM = { capital_scope = { region = japan_region } }
+					NOT = { ROOT = { capital_scope = { region = japan_region } } }
+				}
+			}
+		}
+	}
+	condition = {
+		tooltip = " "
+		potential = {
+			ai = yes
+			capital_scope = {
+				OR = {
+					region = malaya_region
+					region = indonesia_region
+					region = moluccas_region
+				}
+			}
+			FROM = {
+				capital_scope = {
+					OR = {
+						region = malaya_region
+						region = indonesia_region
+						region = moluccas_region
+					}
+				}
+			}
+		}
+		allow = {
+			always = no
+		}
+	}
+}

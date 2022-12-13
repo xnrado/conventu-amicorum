@@ -1,0 +1,10 @@
+﻿l_english:
+#Events
+ HIE_Events.1.T: "La Galeazza"
+ HIE_Events.1.D: "The galley model was developed in the Arsenal of the Republic of Venice, after the end of the Third Turkish-Venetian War (peace with Sultan Suleiman the Magnificent was signed in 1540), during the reorganization of the maritime military regulations by the admiral Cristoforo da Canal. The first were obtained around 1550, transforming large market galleys, to have ships that could exceed ordinary galleys in firepower, without depending exclusively on the strength of the wind for movement and with a limited draft. The first galleys, probably built in secret, were never used in war, because they burned in the great fire of the Arsenal in 1569, but immediately after the Master Builder Francesco Bressan with some of his "Proti and Marangoni" reinforced the hull of some large galleys lying unused in the Arsenal, he mounted bow and stern castles there, reducing the oars from 50 to 48 per side, and covered them with a covered deck."
+ HIE_Events.1.OPT1: "We will dominate the Seas"
+
+
+#Modifiers
+ ven_hie_galeazza: "Galeazza"
+ desc_ven_hie_galeazza: "The galley model was developed in the Arsenal of the Republic of Venice, after the end of the Third Turkish-Venetian War (peace with Sultan Suleiman the Magnificent was signed in 1540), during the reorganization of the maritime military regulations by the admiral Cristoforo da Canal. The first were obtained around 1550, transforming large market galleys, to have ships that could exceed ordinary galleys in firepower, without depending exclusively on the strength of the wind for movement and with a limited draft. The first galleys, probably built in secret, were never used in war, because they burned in the great fire of the Arsenal in 1569, but immediately after the Master Builder Francesco Bressan with some of his "Proti and Marangoni" reinforced the hull of some large galleys lying unused in the Arsenal, he mounted bow and stern castles there, reducing the oars from 50 to 48 per side, and covered them with a covered deck."
