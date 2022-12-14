@@ -513,20 +513,6 @@ country_decisions = {
 		}
 	}
 	
-	check_empowered_requirements_again = {
-		major = no
-		potential = {
-			always = yes
-		}
-		allow = {
-		}
-		effect = {
-			country_event = { id = GE_Help_Events.1 }
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
 	GE_time_to_pray = {
 		major = no
 		potential = {
