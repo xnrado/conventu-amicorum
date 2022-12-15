@@ -13,12 +13,13 @@
 - [x] Remove bookmarks.
 - [x] Add the new map from ***RT1836*** but remove the buggy rivers.
 - [ ] Remove the Expanded Family popup in main menu.
+- [x] Change how much you pay if you go over army or naval force limit. `2 >> 3`
+- [x] Change how much corruption you lose from the muslim interaction. `2 >> 1`
 
 ## Version 1.1
-- [ ] Remake Papacy:
-    - [ ] Replace some of the papal interactions:
+- [ ] Remake Religions:
+    - [ ] Catholic:
         - [ ] Somtething 10% > Msdfoa 15%
-    - [ ] Replace some of the papal bulls:
         - [ ] bullshit > bullcrap
 - [ ] Add some way to exchange manpower between players.
 
