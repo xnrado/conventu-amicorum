@@ -1,15 +1,24 @@
 #  Changelog for the mod Conventu Amicorum.
 ## Version 0.1
-- [x] Add most of the mods from Mission Expanded mod family. 
+- [x] Add most of the mods from Expanded mod family (exclude Trade Goods, Development). 
 - [x] Remove the Missions Expanded event ***paradox_or_mod_missions_events.2*** and make all take option ***1***.
 - [x] Remove the decision to Swap National Ideas.
 - [x] Remove the decision to check government types.
 - [x] Remove the decision to check subject types.
-- [x] Add the debuffs and buffs for government cap from ***RT1836*** (Triggered Mods.).
-- [x] Check the monuments to see if any are too OP, if so - nerf.
-- [x] Nerf quantity-trade meta.
-- [x] Nerf some other idea groups. Ex. quantity and their fl bonus.
+- [] Add the debuffs and buffs for government cap from ***RT1836*** (Triggered Mods.).
+- [] Check the monuments to see if any are too OP, if so - nerf.
+- [] Nerf quantity-trade meta.
+- [] Nerf some other idea groups. Ex. quantity and their fl bonus.
 - [x] Check what event ***subject_expanded_events_3*** (and 1-2) does, and make them so that it chooses the default setting.
 - [x] Remove bookmarks.
-- [x] Add the new map.
+- [x] Add the new map from ***RT1836*** but remove the buggy rivers.
+- [] Remove the Expanded Family popup in main menu.
+
+## Version 1.1
+- [] Remake Papacy:
+    - [] Replace some of the papal interactions:
+        - [] Somtething 10% > Msdfoa 15%
+    - [] Replace some of the papal bulls:
+        - [] bullshit > bullcrap
+- [] Add some way to exchange manpower between players.
 
