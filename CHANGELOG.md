@@ -15,6 +15,7 @@
 - [ ] Remove the Expanded Family popup in main menu.
 - [x] Change how much you pay if you go over army or naval force limit. `2 >> 3`
 - [x] Change how much corruption you lose from the muslim interaction. `2 >> 1`
+- [ ] Add the loading screens from ***Red & Yellow***.
 
 ## Version 1.1
 - [ ] Remake Religions:
