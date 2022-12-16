@@ -474,24 +474,9 @@ country_event = {
 		clr_global_flag = se_dominions_disabled
 	}
 
-	option = {
-		name = subjects_expanded_events3.EVTOPT2
 
-		ai_chance = { factor = 100 }
 
-		custom_tooltip = SE_NO_IDEA_CHANGING_MOD_ACTIVE_TT
-		clr_global_flag = idea_changing_mod_active
-		clr_global_flag = se_dominions_disabled
-	}
 
-	option = {
-		name = subjects_expanded_events3.EVTOPT3
-
-		ai_chance = { factor = 100 }
-
-		custom_tooltip = SE_FULLY_DISABLE_DOMINION_DECISIONS_TT
-		set_global_flag = se_dominions_disabled
-	}
 }
 
 country_event = {
