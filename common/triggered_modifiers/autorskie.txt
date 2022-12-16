@@ -1,0 +1,16 @@
+gdzie_kurwa_z_tym_sojuszem = {
+	potential = {
+		has_dlc = "Emperor"
+		is_emperor = yes
+		religion = catholic
+	}
+	trigger = {
+		is_emperor = yes
+		OR = {
+    alliance_with = FRA
+    alliance_with = TUR
+    }
+    }
+	imperial_authority = -0.30
+	diplomatic_reputation = -3
+}
