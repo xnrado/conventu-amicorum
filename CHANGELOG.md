@@ -1,5 +1,5 @@
 #  Changelog for the mod Conventu Amicorum.
-At the start I would like to thank the increadible creators of this community. 90% of the code and graphics are reused from other mods, check them out [**HERE**] and thank also THEM if you like the mod!
+At the start I would like to thank the increadible creators of this community. 90% of the code and graphics are reused from other mods, check them out [**HERE**](https://github.com/xnrado/conventu-amicorum/blob/main/CHANGELOG.md#thank-you) and thank also THEM if you like the mod!
 ## Version 0.1
 ##### Mod Foundation
 - [x] Add most of the mods from Expanded mod family (exclude Trade Goods, Development). 
@@ -16,8 +16,8 @@ At the start I would like to thank the increadible creators of this community. 9
 - [x] Change how much you pay if you go over army or naval force limit. `2 >> 3`
 - [x] Change how much corruption you lose from the muslim interaction. `2 >> 1`
 - [x] Change how much government capacity you gain from government ranks. `Kingdom 200 >> 100; Empire 400 >> 250`
-- [x] Change how much force limit you have. `Base 6 >> 4; From Provinces 100% >> 75%'
-- [x] Add a triggered modifier for the HRE Emperor giving big debuffs if allied to France, Ottomans or someone holding Imperial lands while not a member of the HRE.
+- [x] Change how much force limit you have. `Base 6 >> 4; From Provinces 100% >> 75%`
+- [x] Add a triggered modifier for the HRE Emperor giving big debuffs if allied to France, Ottomans or someone holding Imperial lands while not a member of the HRE. `-0.30 IA; -5 Diplo rep; -4 Prestige`
 ##### Miscellaneous 
 - [ ] Add the loading screens from ***Red & Yellow***.
 - [ ] Remove the Expanded Family popup in main menu.
