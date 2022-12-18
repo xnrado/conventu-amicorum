@@ -10,18 +10,23 @@ At the start I would like to thank the increadible creators of this community. 9
 - [x] Added the debuffs and buffs for government cap, manpower etc. from ***RT1836 Mod*** (triggered modifiers like Micro-state).
 - [x] Checked what event ***subject_expanded_events_3*** (and 1-2) does, and changeed them so that it chooses the default setting.
 ##### Balance, Flavour and Roleplay
-- [ ] Checked the new monuments and nerfed some if they are too OP.
+<details>
+<summary>- [ ] Checked the new monuments and nerfed some if they are too OP. </summary>
+    - [ ] One
+    - [ ] Two
+    - [ ] Three 
+</details>
 - [ ] Nerfed quantity-trade meta.
-- [ ] Nerfed some other idea groups. Ex. quantity and their fl bonus.
+- [ ] Nerfed some other idea groups. Ex. quantity and their forcelimit bonus.
 - [x] Changed how much you pay if you go over army or naval force limit. `2 >> 3`
 - [x] Changed how much corruption you lose from the muslim interaction. `2 >> 1`
 - [x] Changed how much government capacity you gain from government ranks. `Kingdom 200 >> 100; Empire 400 >> 250`
 - [x] Changed how much force limit you have. `Base 6 >> 4; From Provinces 100% >> 75%`
 - [ ] Changed trade centres so you can now upgrade them in war.
 - [x] Added a triggered modifier for the HRE Emperor giving big debuffs if allied to France, Ottomans or someone holding Imperial lands while not a member of the HRE. `-0.30 Imperial Authority; -5 Diplomatic reputation; -4 Prestige/year`
-- [x] Added a triggered modifier for catholics giving debuffs if allied to a muslim nation. `-1 Diplomatic reputation`
-- [ ] Added a reguirement to **Guaranteed Dhimmi Autonomy** so that you have to be independent. Avoids a situation where you can't convert your vassals provinces.
-- [ ] Added a decision for european nations to establish colonial beauro. `-800 ducats; -200 Diplomatic Mana; +1 Colonist`
+- [x] Added a triggered modifier for christians giving debuffs if allied to a muslim nation in the Age of Discovery. `-1 Diplomatic reputation`
+- [ ] Added a requirement to **Guaranteed Dhimmi Autonomy** so that you have to be independent. Avoids a situation where you can't convert your vassals provinces.
+- [ ] Added a decision for european nations to establish colonial office. `-800 ducats; -200 Diplomatic Mana; +1 Colonist`
 - [ ] Added a decision to force people to join the army in exchange for global unrest. 
 ##### Miscellaneous 
 - [ ] Added the loading screens from ***Red & Yellow Mod*** .
