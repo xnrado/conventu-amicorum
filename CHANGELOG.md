@@ -10,8 +10,9 @@ At the start I would like to thank the increadible creators of this community. 9
 - [x] Added the debuffs and buffs for government cap, manpower etc. from ***RT1836 Mod*** (triggered modifiers like Micro-state).
 - [x] Checked what event ***subject_expanded_events_3*** (and 1-2) does, and changeed them so that it chooses the default setting.
 ##### Balance, Flavour and Roleplay
+- [ ] Checked the new monuments and nerfed some if they are too OP. </summary>
 <details>
-<summary>- [ ] Checked the new monuments and nerfed some if they are too OP. </summary>
+  <summary>Click me</summary>
     - [ ] One
     - [ ] Two
     - [ ] Three 
