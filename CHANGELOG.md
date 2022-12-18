@@ -13,10 +13,12 @@ At the start I would like to thank the increadible creators of this community. 9
 - [ ] Checked the new monuments and nerfed some if they are too OP. </summary>
 <details>
   <summary>Click me</summary>
+
     - [ ] One
     - [ ] Two
     - [ ] Three 
 </details>
+
 - [ ] Nerfed quantity-trade meta.
 - [ ] Nerfed some other idea groups. Ex. quantity and their forcelimit bonus.
 - [x] Changed how much you pay if you go over army or naval force limit. `2 >> 3`
