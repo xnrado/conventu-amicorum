@@ -24,5 +24,42 @@ gdzie_kurwa_z_tym_sojuszem = {
    diplomatic_reputation = -5
    prestige = -4
    
+}
+
+boga_w_sercu_masz = {
+  potential = 
+  {
+	current_age = age_of_discovery
+    religion_group = christian
+  }
+  trigger = 
+  {
+    any_country = {
+      religion_group = muslim
+      alliance_with = ROOT  
+    }
+  }
+   diplomatic_reputation = -2
+   global_unrest = 5
+   stability_cost_modifier = 0.2
+
+}
+
+boga_w_sercu_masz_v2 = {
+  potential = 
+  {
+	current_age = age_of_discovery
+    religion_group = muslim
+  }
+  trigger = 
+  {
+    any_country = {
+      religion_group = christian
+      alliance_with = ROOT  
+    }
+  }
+   diplomatic_reputation = -2
+   global_unrest = 5
+   stability_cost_modifier = 0.2
 
 }

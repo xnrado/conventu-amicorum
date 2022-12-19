@@ -431,3 +431,9 @@
 
  hre_asia_minor_duchy_decision_georgia_title: "The @GEO §YDuchy of [GEO.GetName]§!"
  hre_asia_minor_duchy_decision_georgia_desc: "We should combine all the smaller duchies in the region into a larger one, @GEO §Y[GEO.GetName]§!."
+
+ create_colonial_office_title: "We can finally create our colonial bureau!"
+ create_colonial_office_desc: "With creation of our own colonial buerau we are able to colonize and get richer!"
+ 
+ excessive_recruitment_title: "We can carry out extensive conscription"
+ excessive_recruitment_desc: "We can carry out extensive conscription"

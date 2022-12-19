@@ -3526,6 +3526,7 @@ estate_dhimmi_guaranteed_autonomy = {
 			NOT = { religion_group = root }
 		}
 		NOT = { has_unlocked_estate_privilege = { estate_privilege = estate_dhimmi_guarantee_of_traditions } }
+		NOT = {is_free_or_tributary_trigger = no}
 	}
 	on_granted = {
 		custom_tooltip = estate_dhimmi_guaranteed_autonomy_effect_tooltip

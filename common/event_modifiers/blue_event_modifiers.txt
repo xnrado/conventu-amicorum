@@ -1,0 +1,20 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+blue_no_colonies = {
+	colonists = -2
+	range = -0.5
+	global_colonial_growth = -10
+}
+
+blue_yes_colonies = {
+	colonists = 1
+
+}
+
+excessive_recruitment = {
+	global_unrest = 3
+	manpower_recovery_speed = -0.10
+
+}

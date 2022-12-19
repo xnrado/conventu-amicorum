@@ -1,0 +1,49 @@
+country_decisions = {
+
+
+	create_colonial_office = {
+		potential = {
+			religion_group = christian
+			NOT = { has_country_flag = biurokolonialne }
+			
+		}
+		allow = {
+			dip_power = 200
+			treasury = 1000
+		
+		}
+		effect = {
+			add_country_modifier = {
+			name = blue_yes_colonies
+			duration = -1
+			}
+			set_country_flag = biurokolonialne
+			add_dip_power = -200
+			add_treasury = -1000
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	excessive_recruitment = {
+		potential = {
+			NOT = { has_country_modifier = excessive_recruitment }
+			
+		}
+		allow = {
+			NOT = { has_country_modifier = excessive_recruitment }
+		
+		}
+		effect = {
+			add_country_modifier = {
+			name = excessive_recruitment
+			duration = 3650
+			}
+			add_yearly_manpower = 1.0
+			
+		}
+	}
+
+}
