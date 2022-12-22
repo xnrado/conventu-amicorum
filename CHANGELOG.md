@@ -16,12 +16,10 @@ At the start I would like to thank the increadible creators of this community. 9
 - [x] Changed how much corruption you lose from the muslim interaction. `2 >> 1`
 - [x] Changed how much government capacity you gain from government ranks. `Kingdom 200 >> 100; Empire 400 >> 250`
 - [x] Changed how much force limit you have. `Base 6 >> 4; From Provinces 100% >> 75%`
-- [ ] Changed trade centres so you can now upgrade them in war.
 - [x] Added a triggered modifier for the HRE Emperor giving big debuffs if allied to France, Ottomans or someone holding Imperial lands while not a member of the HRE. `-0.30 Imperial Authority; -5 Diplomatic reputation; -4 Prestige/year`
 - [x] Added a triggered modifier for christians giving debuffs if allied to a muslim nation in the Age of Discovery. `-1 Diplomatic reputation`
-- [ ] Added a requirement to **Guaranteed Dhimmi Autonomy** so that you have to be independent. Avoids a situation where you can't convert your vassals provinces.
-- [ ] Added a decision for european nations to establish colonial office. `-800 ducats; -200 Diplomatic Mana; +1 Colonist`
-- [ ] Added a decision to force people to join the army in exchange for global unrest. 
+- [x] Added a requirement to **Guaranteed Dhimmi Autonomy** so that you have to be independent. Avoids a situation where you can't convert your vassals provinces.
+- [x] Added a decision for european nations to establish a colonial office. `-800 ducats; -200 Diplomatic Mana; +1 Colonist`
 ##### Miscellaneous 
 - [x] Added the loading screens from ***50 Loadingscreens Mod***.
 - [ ] Removed the Expanded Family popup in main menu.
@@ -37,6 +35,9 @@ At the start I would like to thank the increadible creators of this community. 9
         - [ ] Placeholder for new papal diplo
 - [ ] Added some way to exchange manpower between players.
 - [ ] Added a censorship decision that decreases unrest/increases estate loyalty and decreases diplomatic reputation after embracing the printing press. If you don't have censorship and finished Innovative or Humanist ideas, you can institute free press that decreases tech cost and increases unrest.
+- [ ] Added a decision to force people to join the army in exchange for global unrest. 
+- [ ] Added a privilege for burghers that allows you to establish a marine corps.
+- [ ] Changed trade centres so you can now upgrade them in war.
 
 ## Thank YOU
 We have taken inspiration and code (Lots of code) from other modmakers. We salute you! Exeptional thank-you's to:
