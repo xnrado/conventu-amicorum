@@ -39,6 +39,7 @@ At the start I would like to thank the increadible creators of this community. 9
 - [ ] Changed trade centres so you can now upgrade them in war.
 - [ ] Nerfed quantity-trade meta.
 - [ ] Nerfed some other idea groups. Ex. quantity and their forcelimit bonus.
+- [ ] Repaired the localisation of the HRE turk tax decision.
 ???
 
 ## Thank YOU

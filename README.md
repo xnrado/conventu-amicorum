@@ -9,22 +9,19 @@
 
 <p align="center">
 <img src="https://i.imgur.com/j7ZGCLW.png" height=50% width=50%>
-
-    <p align="center">
+<p align="center">
  Most of the code is taken from other mods:
-    <p align="center">
+<p align="center">
 <a href="https://steamcommunity.com/workshop/filedetails/?id=1626860092">Expanded Mod Family</a>
-    <p align="center">
+<p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2895913903">Road to 1836</a>
-    <p align="center">
+<p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2805088800">Disaster: Eclipse of Empires</a>
-    <p align="center">
+<p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1562888561">Colony Merging</a>
-
-    <p align="center">
+<p align="center">
 <img src="https://i.imgur.com/w7TV91I.png" height=50% width=50%>
-
-    <p align="center">
+<p align="center">
 <a href="https://github.com/xnrado/grim-europa">Grim Europa</a>
-    <p align="center">
+<p align="center">
 <a href="https://github.com/xnrado/conventu-amicorum">Conventu Amicorum</a>
