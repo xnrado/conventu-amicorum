@@ -1182,7 +1182,7 @@ country_decisions = {
 						is_part_of_hre = yes
 						is_emperor = no
 					}
-					ROOT = { add_treasury = 50 }
+					ROOT = { add_treasury = 10 }
 				}
 			}
 			every_country = {
