@@ -10,9 +10,7 @@
     <p align="center">
  Most of the code is taken from other mods:
     <p align="center">
-<a href="https://steamcommunity.com/workshop/filedetails/?id=
-
-1626860092">Expanded Mod Family</a>
+<a href="https://steamcommunity.com/workshop/filedetails/?id=1626860092">Expanded Mod Family</a>
     <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2895913903">Road to 1836</a>
     <p align="center">
