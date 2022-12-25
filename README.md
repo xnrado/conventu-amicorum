@@ -1,12 +1,11 @@
 <p align="center">
 <img src="https://i.imgur.com/fPT9tvI.png" height=50% width=50%>
-
+<p align="center">
  An overhaul mod for Europa Universalis 4.
-
+<p align="center">
  This mod aims to breathe new air into this game and flip the meta on it's head a little. It's original purpose is to be used in multiplayer RP games, but you can use it and modify it as you wish, even without credit.
-
+<p align="center">
  You can look up all the changes <a href="https://github.com/xnrado/conventu-amicorum/blob/main/CHANGELOG.md">HERE</a>.
-
 <p align="center">
 <img src="https://i.imgur.com/j7ZGCLW.png" height=50% width=50%>
 <p align="center">
