@@ -15,6 +15,7 @@ At the start I would like to thank the increadible creators of this community. 9
 - [x] Changed how much government capacity you gain from government ranks. `Kingdom 200 >> 100; Empire 400 >> 250`
 - [x] Changed how much force limit you have. `Base 6 >> 4; From Provinces 100% >> 75%`
 - [x] Changed how much money the emperor gets from the reich tax decision. `50 >> 10`
+- [x] Changed how much money the emperor gets from the reich tax decision. `+33% cav to inf ratio >> 30% cav ca`
 - [x] Added a triggered modifier for the HRE Emperor giving big debuffs if allied to France, Ottomans or someone holding Imperial lands while not a member of the HRE. `-0.30 Imperial Authority; -5 Diplomatic reputation; -4 Prestige/year`
 - [x] Added a triggered modifier for christians giving debuffs if allied to a muslim nation in the Age of Discovery. `-2 Diplomatic Reputation, +5 National Unrest, +20% Stability Cost`
 - [x] Added a requirement to ***Guaranteed Dhimmi Autonomy*** so that you have to be independent. Avoids a situation where you can't convert your vassals provinces.
