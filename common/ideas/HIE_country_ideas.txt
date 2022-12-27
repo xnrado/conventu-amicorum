@@ -1352,7 +1352,7 @@ HIE_POL_ideas = {
 	}
 	hie_pol_winged_hussars = {
 		can_recruit_hussars = yes
-		cav_to_inf_ratio = 0.33
+		cavalry_power = 0.30
 	}
 	hie_pol_permanent_defense = {
 		garrison_size = 0.25
@@ -1390,7 +1390,7 @@ HIE_PLC_POL_ideas = {
 	}
 	hie_pol_winged_hussars = {
 		can_recruit_hussars = yes
-		cav_to_inf_ratio = 0.33
+		cavalry_power = 0.30
 	}
 	hie_plc_pol_magnates = {
 		production_efficiency = 0.10
