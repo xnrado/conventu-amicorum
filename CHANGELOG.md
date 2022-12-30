@@ -52,33 +52,20 @@ At the start I would like to thank the increadible creators of this community. 9
   - [ ] Changed localisations:
       
   </summary>
-  
-    - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
-    - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
-    - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
-    - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
+    
+  - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
+  - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
+  - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
+  - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
 
 </details>
+
 - [ ] Changed localisations:
     - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
     - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
     - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
     - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
 
-<details>
-    
-  <summary>
-      
-      - [ ] Changed localisations:
-    
-  </summary>
-    
-    - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
-    - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
-    - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
-    - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
-    
-</details>
 
 ???
 
