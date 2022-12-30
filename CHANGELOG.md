@@ -84,29 +84,13 @@ We also want to thank the creators whose mods we included in our [Recommended Gr
 +   [50 Loadingscreens Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=251964175&searchtext=loading+screen) - For loading screens that are very good.
 
 
-<details open>
-  <summary>Gonna use this one day.</summary>
-  
-    * Foo
-    * Bar
-    * Baz
-    * Qux
-    
-</details>
 
 <details>
   <summary>Click me</summary>
   
-  ### Heading
   1. Foo
   2. Bar
      * Baz
      * Qux
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
