@@ -52,7 +52,7 @@ At the start I would like to thank the increadible creators of this community. 9
     - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
     - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
 
-<details>
+<details open>
   <summary>- [ ] Changed localisations:</summary>
     
     - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
@@ -79,7 +79,7 @@ We also want to thank the creators whose mods we included in our [Recommended Gr
 +   [50 Loadingscreens Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=251964175&searchtext=loading+screen) - For loading screens that are very good.
 
 
-<details>
+<details open>
   <summary>Gonna use this one day.</summary>
   
     - [ ] Foo
