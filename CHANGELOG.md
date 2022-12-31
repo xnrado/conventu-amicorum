@@ -28,44 +28,30 @@ At the start I would like to thank the increadible creators of this community. 9
 ## Version 1.1
 ##### Balance, Flavour and Roleplay
 - [ ] Religions:
-    - [ ] Miscellaneous:
-        - [ ] Added a new decision that lets you convert your nation.
-    - [ ] Catholic:
-        - [ ] Placeholder for bulls 
-        - [ ] Placeholder for new papal diplo
+    - [ ] Added a new decision that lets you convert your nation.
 - [ ] Added some way to exchange manpower between players.
 - [ ] Added a censorship decision that decreases unrest/increases estate loyalty and decreases diplomatic reputation after embracing the printing press. If you don't have censorship and finished Innovative or Humanist ideas, you can institute free press that decreases tech cost and increases unrest.
-- [ ] Added a decision to force people to join the army in exchange for global unrest. 
 - [ ] Added a privilege for burghers that allows you to establish a marine corps.
 - [ ] Changed trade centres so you can now upgrade them in war.
 - [ ] Nerfed quantity-trade meta.
 - [ ] Nerfed some other idea groups. Ex. quantity and their forcelimit bonus.
 ##### Miscellaneous 
+- [ ] Repaired the interface when joining multiplayer games.
 - [ ] Changed colors of countries:
     - [ ] Angevin Empire `UKS `
     - [ ] Zapadoslavia `ZCV `
 - [ ] Changed the provinces to the ones from [Heavy Europe - Historical European Borders](https://steamcommunity.com/sharedfiles/filedetails/?id=2163051328).
 ##### Localisation
-<details>
-  <summary>
-  
-  - [ ] Changed localisations:
-      
-  </summary>
-    
-    - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
-    - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
-    - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
-    - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
-
-</details>
-
 - [ ] Changed localisations:
+    - [ ] **Emperor betrays Empire** triggered modifier *gdzie_kurwa_z_tym_sojuszem* `'Emperor betrays Empire' >> 'Traitorous Emperor'`
+    - [ ] **Church and your people condemns you!** triggered modifier *boga_w_sercu_masz* `'Church and your people condemns you!' >> 'Apostatic Ruler'`
+    - [ ] **The dissent among imams and your people** triggered modifier *boga_w_sercu_masz_v2* `'The dissent among imams and your people' >> 'Decadent Ruler'`
     - [ ] **Demand Reichstürkenhilfe** decision tooltip *EMPEROR_GAINS_THIS_AMOUNT_OF_MONEY_BECAUSE_OF_TUERKENHILFE* . `50 ducats >> 10 ducats`
-    - [ ] **Colonial Bureau** decision title ** . `'We can finally create our colonial bureau!' >> 'Create a Colonial Bureau'`
-    - [ ] **** triggered modifier ** `'Emperor betrays Empire' >> 'Traitorous Emperor'`
-    - [ ] **** triggered modifier ** `'Church and your people condemns you!' >> 'Apostatic Ruler'`
-
+    - [ ] **Colonial Bureau** decision title *create_colonial_office_title* `'*' >> 'Create a Colonial Bureau'`
+    - [ ] **Colonial Bureau** decision description *create_colonial_office_desc* `'*' >> 'Establish an office in your country that focuses on our overseas ambitions.'`
+    - [ ] **Extensive Conscription** decision title *excessive_recruitment_title*  `'*' >> 'Carry out Extensive Conscription'`
+    - [ ] **Extensive Conscription** decision description *excessive_recruitment_desc* `'*' >> 'We are in dire need of new recruits for our land forces. We can forcefully conscript men into our ranks, but it will hurt us in the long run.'`
+    - [ ] **Excessive Recruitment** modifier *excessive_recruitment* `'*' >> 'Excessive Recruitment'`
 
 ???
 
